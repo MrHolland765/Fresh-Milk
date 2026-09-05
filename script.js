@@ -6,7 +6,7 @@ function sendWhatsapp(){
     let location = document.getElementById("location").value;
 
 
-    let sellerNumber = "25577316131";
+    let sellerNumber = "255773316131";
     
 
     let message =
