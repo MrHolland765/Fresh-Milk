@@ -20,8 +20,12 @@ header{
     display:flex;
     justify-content:space-between;
     align-items:center;
+<<<<<<< HEAD
     padding:60px 5%;
     border-radius:0 0 90px 90px;
+=======
+    padding:20px 8%;
+>>>>>>> 8e60538317120f00400f05286129aa3b76fe63d7
 }
 
 
@@ -203,6 +207,7 @@ input{
 }
 
 
+<<<<<<< HEAD
 /* Mouse ikipita juu ya input */
 input:hover{
     border-color: #074cc4;
@@ -246,6 +251,10 @@ button:active{
     transform: scale(0.95);
 }
 
+=======
+
+
+>>>>>>> 8e60538317120f00400f05286129aa3b76fe63d7
 /* FOOTER */
 
 footer{
@@ -254,4 +263,8 @@ footer{
     text-align:center;
     padding:20px;
     margin-top:30px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8e60538317120f00400f05286129aa3b76fe63d7
